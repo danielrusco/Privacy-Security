@@ -1,17 +1,17 @@
-**What services do you need to pay for to stay private & secure?**
+# What services do you need to pay for to stay private & secure?
 
-**Secure Email** (paid) - Most mainstream email providers (Gmail, Outlook) scan your emails to build advertising profiles and comply readily with data requests. A privacy-focused provider like Proton Mail stores your email with end-to-end encryption, meaning even Proton can't read your messages. It's also based in Switzerland, which has stronger privacy laws than the US. This is especially important for sensitive personal, legal, or financial correspondence.
+**Secure Email** - Most mainstream email providers (Gmail, Outlook) scan your emails to build advertising profiles and comply readily with data requests. A privacy-focused provider like Proton Mail stores your email with end-to-end encryption, meaning even Proton can't read your messages. It's also based in Switzerland, which has stronger privacy laws than the US. This is especially important for sensitive personal, legal, or financial correspondence.
 
-**Email Alias Service** (paid) - An alias service lets you create unique, disposable email addresses that forward to your real inbox. Instead of giving your actual email to every service you sign up for, you give them an alias. If that alias starts receiving spam or gets breached, you simply delete it — your real address stays clean and unconnected. Services like SimpleLogin and Addy.io make this easy, and iCloud+ includes a built-in version called Hide My Email.
+**Email Alias Service** - An alias service lets you create unique, disposable email addresses that forward to your real inbox. Instead of giving your actual email to every service you sign up for, you give them an alias. If that alias starts receiving spam or gets breached, you simply delete it — your real address stays clean and unconnected. Services like SimpleLogin and Addy.io make this easy, and iCloud+ includes a built-in version called Hide My Email.
 
-**VPN** (paid) - A VPN encrypts your internet traffic and routes it through a server operated by the VPN provider, masking your activity from your ISP, mobile carrier, and anyone on the same network. This is particularly useful on public WiFi and prevents your carrier from building a profile of your browsing habits. It's worth understanding that a VPN shifts trust rather than eliminating it — you're trusting the VPN provider instead of your ISP, so choosing one with a strict no-logs policy and independent audits (like Mullvad) matters.
+**VPN** - A VPN encrypts your internet traffic and routes it through a server operated by the VPN provider, masking your activity from your ISP, mobile carrier, and anyone on the same network. This is particularly useful on public WiFi and prevents your carrier from building a profile of your browsing habits. It's worth understanding that a VPN shifts trust rather than eliminating it — you're trusting the VPN provider instead of your ISP, so choosing one with a strict no-logs policy and independent audits (like Mullvad) matters.
 
-**Encrypted Cloud Storage** (paid) — If you're storing files in the cloud, services like Proton Drive or Filen encrypt your files before they leave your device, meaning the provider can't see your content. A step up from iCloud even with Advanced Data Protection enabled.
+**Encrypted Cloud Storage** — If you're storing files in the cloud, services like Proton Drive or Filen encrypt your files before they leave your device, meaning the provider can't see your content. A step up from iCloud even with Advanced Data Protection enabled.
 
-**Data Broker Removal** (paid) — Services like Optery or Deleteme find and request removal of your personal information from data broker sites that aggregate and sell public records. More of an ongoing maintenance service than a tool, but addresses a threat vector the others don't touch.
+**Data Broker Removal** — Services like Optery or Deleteme find and request removal of your personal information from data broker sites that aggregate and sell public records. More of an ongoing maintenance service than a tool, but addresses a threat vector the others don't touch.
 
 
-**Privacy Isn't Free**
+# How cheap can you get a solid level of privacy & security? 
 
 Cheapest Diverse Stack - $10.87/month
 - $0.99 iCloud+ subscription for email aliases

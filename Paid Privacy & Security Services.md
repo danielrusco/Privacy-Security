@@ -13,16 +13,16 @@
 
 # How cheap can you get a solid level of privacy & security? 
 
-Cheapest Diverse Stack - $10.87/month
+**Cheapest Diverse Stack - $10.87/month**
 - $0.99 iCloud+ subscription for email aliases
 - $3.99 "Mail Plus" Proton subscription
 - $5.90 Mullvad VPN subscription 
 - $0.00 BitWarden account 
 
-Cheapest Siloed Stack - $9.99/month
+**Cheapest Siloed Stack - $9.99/month**
 - Proton Unlimited subscription, which covers email aliases, email services, VPN, & password manager. Downside is that all you eggs are in one basket. Bonus is that you also get 500GB of encrypted storage vs only 50GB with iCloud+, which is only encrypted if "Advanced Data Protection" is enabled. 
 
-What I Currently Use - $25.70/month
+**What I Currently Use - $25.70/month**
 - $2.99 iCloud+ subscription for email aliases, will be trying to downsize to the $0.99 plan once I clean out my iCloud storage. I really like how easy it is to setup new email aliases on my iPhone. However, it's much more tedious on my MacBook. Since I started with iCloud+ aliases, it's not worth switching to a dedicated alias service at this point. 
 - $3.99 "Mail Plus" Proton subscription. I bought a yearly subscription when it was on sale, so my monthly price is lower by 20-25%. 
 - $5.90 Mullvad VPN subscription. Bonus: one of my Mullvad devices is my router, so all home network traffic is tunneled through Mullvad. Speaking of routers, I'm a big fan of [GLiNet](https://www.gl-inet.com/) routers. They're simple to use and have VPN (including Tailscale) & AdGuard integrated into their interface. 

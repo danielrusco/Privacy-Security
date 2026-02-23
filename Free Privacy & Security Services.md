@@ -1,4 +1,4 @@
-**What free services help you stay private & secure?&&
+**What free services help you stay private & secure?**
 
 **Password Manager** (free) - A password manager generates and stores strong, unique passwords for every account you have. Reusing passwords is one of the most common ways accounts get compromised — when one service gets breached, attackers try those credentials everywhere else. A password manager eliminates that risk while making it practical to have genuinely strong passwords without memorizing them. Bitwarden is a free, open-source option; 1Password is a polished paid alternative.
 

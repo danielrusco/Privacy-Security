@@ -38,6 +38,7 @@ A place to share privacy &amp; security related information.
 - Be skeptical of unsolicited messages asking you to click links or verify credentials — phishing is still the most common attack vector.
 - Verify unexpected requests from known contacts through a separate channel before acting.
 
+# Links to Guides
 [iOS Privacy & Security Tips](https://github.com/danielrusco/Privacy-Security/blob/main/iOS%20Security)
 
 [Paid Privacy & Security Services](https://github.com/danielrusco/Privacy-Security/blob/main/Paid%20Privacy%20&%20Security%20Services.md)

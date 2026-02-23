@@ -41,6 +41,6 @@ A place to share privacy &amp; security related information.
 # Links to Guides
 [iOS Privacy & Security Tips](https://github.com/danielrusco/Privacy-Security/blob/main/iOS%20Security)
 
-[Paid Privacy & Security Services](https://github.com/danielrusco/Privacy-Security/blob/main/Paid%20Privacy%20&%20Security%20Services.md)
+[Privacy & Security Services You Should Pay For](https://github.com/danielrusco/Privacy-Security/blob/main/Privacy%20%26%20Security%20Services%20Worth%20Your%20Money.md)
 
 [Free Privacy & Security Services](https://github.com/danielrusco/Privacy-Security/blob/main/Free%20Privacy%20&%20Security%20Services.md)

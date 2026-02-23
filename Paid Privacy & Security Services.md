@@ -6,9 +6,9 @@
 
 **VPN** - A VPN encrypts your internet traffic and routes it through a server operated by the VPN provider, masking your activity from your ISP, mobile carrier, and anyone on the same network. This is particularly useful on public WiFi and prevents your carrier from building a profile of your browsing habits. It's worth understanding that a VPN shifts trust rather than eliminating it — you're trusting the VPN provider instead of your ISP, so choosing one with a strict no-logs policy and independent audits (like Mullvad) matters.
 
-**Encrypted Cloud Storage** — If you're storing files in the cloud, services like Proton Drive or Filen encrypt your files before they leave your device, meaning the provider can't see your content. A step up from iCloud even with Advanced Data Protection enabled.
+**Encrypted Cloud Storage** (optional) — If you're storing files in the cloud, services like Proton Drive or Filen encrypt your files before they leave your device, meaning the provider can't see your content. A step up from iCloud even with Advanced Data Protection enabled.
 
-**Data Broker Removal** — Services like Optery or Deleteme find and request removal of your personal information from data broker sites that aggregate and sell public records. More of an ongoing maintenance service than a tool, but addresses a threat vector the others don't touch.
+**Data Broker Removal** (optional) — Services like Optery or Deleteme find and request removal of your personal information from data broker sites that aggregate and sell public records. More of an ongoing maintenance service than a tool, but addresses a threat vector the others don't touch.
 
 
 # How cheap can you get a solid level of privacy & security? 

@@ -1,7 +1,7 @@
 **Tier One**
 - Keep your phone up to date (iOS & apps). 
 - Set auto-lock to the shortest tolerable interval. 
-- Enable Advanced Data Protection - protects any iCloud data on Apple's servers. 
+- Enable "Advanced Data Protection" - protects any iCloud data on Apple's servers. 
 - Install an adblocker ([AdGuard](https://adguard.com/en/adguard-ios/overview.html)) for your browser. Safari is pretty secure with adGuard, but Brave is also a good browser with built in anti-tracking features. 
 - Use a password manager ([BitWarden](https://bitwarden.com/download/)) and don't reuse passwords. 
 - Use an encrypted messaging app ([Signal](https://signal.org/download/)). 

@@ -20,7 +20,7 @@
 - Run all your traffic through a VPN ([Obscura](https://obscura.net/) or [Mullvad](https://mullvad.net/en), [iCloud Relay](https://support.apple.com/en-us/102602) in a pinch). This can’t protect against fingerprinting, but does keep your traffic somewhat anonymized from your ISP/carrier. 
 	- Configure your VPN to use a privacy-respecting DNS resolver (NextDNS, Quad9). You can also set this up in your general DNS settings so that your DNS is secure even when not using a VPN. 
 - Use a privacy-focused email alias service. [iCloud+](https://support.apple.com/en-us/108047) has this feature, but you can also use [SimpleLogin](https://simplelogin.io/) or [Addy.io](https://addy.io/). The "Mail Plus" version of Proton allows for up to 10 email aliases, the "Proton Unlimited" version of Proton is ... unlimited. 
-	- Non iCloud+ email alias services allow you to use an email alias for your Apple ID that's not used anywhere else, which helps protect your AppleID from being compromised. If you're good about not using the same password twice, you probably don't need to worry if you iCloud email is your actual email. 
+	- Non iCloud+ email alias services allow you to use an email alias for your Apple ID that's not used anywhere else, which helps protect your AppleID from being compromised. If you're good about not using the same password twice, you probably don't need to worry if your iCloud email is your actual email. 
 
 **Tier Three**
 - Disable WiFi & Bluetooth when not at home (you can setup an automation in Shortcuts to do this). 

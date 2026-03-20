@@ -44,3 +44,5 @@ A place to share privacy &amp; security related information.
 [Privacy & Security Services You Should Pay For](https://github.com/danielrusco/Privacy-Security/blob/main/Privacy%20%26%20Security%20Services%20Worth%20Your%20Money.md)
 
 [Free Privacy & Security Services](https://github.com/danielrusco/Privacy-Security/blob/main/Free%20Privacy%20&%20Security%20Services.md)
+
+[iOS Automations to Minimize Data Leakage.md](https://github.com/danielrusco/Privacy-Security/blob/main/iOS%20Automations%20to%20Minimize%20Data%20Leakage.md)

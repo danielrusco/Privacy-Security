@@ -1,6 +1,8 @@
 # Privacy & Security
 A place to share privacy &amp; security related information. 
 
+Why bother with this stuff? Great question. [So you can be your own person.](https://github.com/danielrusco/Privacy-Security/blob/main/Why%20I%20Take%20Privacy%20Seriously.md)
+
 # General Best Practices for Privacy & Security
 
 ## Accounts & Identity

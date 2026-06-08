@@ -31,8 +31,8 @@
 
 **Tier Four** (a.k.a. Tin Foil Hat Mode)
 - Keep your phone in a faraday sleeve when not in use. Yes, literally wrap your phone in tinfoil to keep the 5G out. 
-- Use an eSIM as well as a carrier with minimal data retention. Mint Mobile & Visible don't require "Know Your Customer" verification. Neewer companies like [Phreeli](https://www.phreeli.com/ ) and [Cape](https://www.cape.co/ ) are marketed as privacy focused carriers, but don't have long track records. They offer increased metadata privacy that Mint & Visible don't. 
+- Use an eSIM as well as a carrier with minimal data retention. Mint Mobile & Visible don't require "Know Your Customer" verification. Newer companies like [Phreeli](https://www.phreeli.com/ ) and [Cape](https://www.cape.co/ ) are marketed as privacy focused carriers, but don't have long track records. They offer increased metadata privacy that Mint & Visible don't. 
 
-Which services should I pay for? Click [here](https://github.com/danielrusco/Privacy-Security/blob/main/Required%20Services.md) for the cheapest security stack recommendation. 
+Which services should I pay for? Click [here](https://github.com/danielrusco/Privacy-Security/blob/main/Privacy%20%26%20Security%20Services%20Worth%20Your%20Money.md) for the cheapest security stack recommendation. 
 
 If you want a deeper dive into hardening iOS, check out [this](https://github.com/iAnonymous3000/iOS-Hardening-Guide) page. 
